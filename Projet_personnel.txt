@@ -1,3 +1,2 @@
 Premier commit pour activité 2
-2 : Hello world
-3: jason60710
+2 : 2 eme modification sur le document texte
